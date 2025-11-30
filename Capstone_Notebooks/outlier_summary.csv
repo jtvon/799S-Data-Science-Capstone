@@ -1,0 +1,6 @@
+feature,iqr_outliers,robustz_outliers,combined_unique,pct_rows_flagged,iqr_low,iqr_high,median,mad
+Age,116,0,116,0.77,4.0,76.0,39.0,9.0
+PastNumberOfClaims,0,0,0,0.0,-3.0,5.0,1.0,1.0
+NumberOfSuppliments,0,0,0,0.0,-3.0,5.0,1.0,1.0
+DriverRating,0,0,0,0.0,-2.0,6.0,2.0,1.0
+WeekOfMonth,0,0,0,0.0,-1.0,7.0,3.0,1.0
